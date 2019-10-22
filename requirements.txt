@@ -136,7 +136,7 @@ pelican==4.0.1
 pep8==1.7.0
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==6.2.0
 pkginfo==1.4.1
 ply==3.10
 prometheus-client==0.6.0
