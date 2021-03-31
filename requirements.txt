@@ -99,7 +99,7 @@ linecache2==1.0.0
 llvmlite==0.20.0
 lmdb==0.94
 locket==0.2.0
-lxml==4.1.0
+lxml==4.6.3
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
