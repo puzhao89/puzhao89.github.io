@@ -212,7 +212,7 @@ typogrify==2.0.7
 unicodecsv==0.14.1
 Unidecode==1.0.23
 unittest2==1.1.0
-urllib3==1.22
+urllib3==1.26.5
 visdom==0.1.8.3
 wcwidth==0.1.7
 webencodings==0.5.1
